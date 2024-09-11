@@ -6,7 +6,7 @@
 typedef struct Person {
     char name[5];
     char phone[14];
-    bool isFavorites;
+    bool isFavorite;
 }Person;
 
 void Create();
